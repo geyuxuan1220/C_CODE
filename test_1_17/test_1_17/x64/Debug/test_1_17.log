@@ -1,0 +1,6 @@
+﻿  test.c
+C:\Users\ASUS\source\repos\test_1_17\test_1_17\test.c(40,10): warning C4047: “=”:“int (*)[10]”与“int **”的间接级别不同
+C:\Users\ASUS\source\repos\test_1_17\test_1_17\test.c(39,1): warning C4047: “初始化”:“int *”与“int *(*)[10]”的间接级别不同
+C:\Users\ASUS\source\repos\test_1_17\test_1_17\test.c(38,6): warning C4101: “arr1”: 未引用的局部变量
+C:\Users\ASUS\source\repos\test_1_17\test_1_17\test.c(41,6): warning C4101: “arr2”: 未引用的局部变量
+  test_1_17.vcxproj -> C:\Users\ASUS\source\repos\test_1_17\x64\Debug\test_1_17.exe
