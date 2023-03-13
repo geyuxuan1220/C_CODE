@@ -1,0 +1,4 @@
+﻿  test.c
+C:\Users\ASUS\source\repos\test_3_11\test_3_11\test.c(333,12): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+C:\Users\ASUS\source\repos\test_3_11\test_3_11\test.c(339,5): warning C4102: “ASSS”: 未引用的标签
+  test_3_11.vcxproj -> C:\Users\ASUS\source\repos\test_3_11\x64\Debug\test_3_11.exe
